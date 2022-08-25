@@ -1,0 +1,8 @@
+Input number as n
+For 1 to n:
+  mod = 12222
+  While mod !=0
+    div = n div 3
+    mod = n - div *3
+    n := div
+    print mod
