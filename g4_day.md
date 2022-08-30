@@ -5,6 +5,7 @@ How many USB memories of 4Gb would be required to download the memories of an ad
 
 ## Answer
 Memory used by an adult = 2500000GB
+(reference: https://www.cnsnevada.com/what-is-the-memory-capacity-of-a-human-brain/#:~:text=As%20a%20number%2C%20a%20%E2%80%9Cpetabyte,2.5%20million%20gigabytes%20digital%20memory.)
 
 Capacity of the USB drive = 4Gb
 
