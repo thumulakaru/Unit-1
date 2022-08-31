@@ -1,6 +1,14 @@
 # Sec 2. Integer and Float numbers
 The first part of the problems were added separately.
 
+## Fractional part
+```.py
+a = float(input())
+b = int(a)
+b = a-b
+print(b)
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screen%20Shot%202022-08-31%20at%2011.36.11.png)
 ## First digit after decimal point
 
 ```.py
