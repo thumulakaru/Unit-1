@@ -1,4 +1,51 @@
 # Conditions if, then, else
+## Is Positive
+```.py
+a = int(input())
+if a > 0:
+    print("YES")
+elif a<0:
+    print("NO")
+else:
+    print("You entered zero")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2010.06.42.png)
+
+## Is Odd
+```.py
+a = int(input())
+
+if a%2==1:
+    print("YES")
+elif a%2==0:
+    print("NO")
+else:
+    print("You entered an invalid input.")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2020.59.29.png)
+
+## Is Even
+```.py
+a = int(input())
+
+if a%2==0:
+    print("YES")
+elif a%2==1:
+    print("NO")
+else:
+    print("You entered an invalid input.")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2021.02.23.png)
+## Ends on Seven
+```.py
+a = int(input())
+if a%10 == 7:
+    print("YES")
+else:
+    print("NO")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2021.06.15.png)
+
 ## Minimum of two numbers
 ```.py
 a = int(input())
@@ -10,6 +57,30 @@ else:
     print(a)
 ```
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Screen%20Shot%202022-08-31%20at%2011.51.41.png)
+
+## Are both odd
+```.py
+a = int(input())
+b = int(input())
+
+if a%2 == 1 and b%2 == 1:
+    print("YES")
+else:
+    print("NO")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2021.11.20.png)
+
+## Are both odd
+```.py
+a = int(input())
+b = int(input())
+
+if a%2 == 1 or b%2 == 1:
+    print("YES")
+else:
+    print("NO")
+```
+![](https://github.com/thumulakaru/Unit-1/blob/main/Screenshots%20from%2004.09.2022/Screen%20Shot%202022-09-05%20at%2021.38.15.png)
 
 ## Sign function
 ```.py
