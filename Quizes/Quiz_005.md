@@ -18,3 +18,6 @@ while n1+1 != limit:
         limit = limit + 1
 print(factors)
 ```
+
+## Tests
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/quiz%205%20tests.png)
