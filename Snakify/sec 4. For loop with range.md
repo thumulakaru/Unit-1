@@ -182,3 +182,34 @@ for x in range(a, b+1):
     if count == 0:
         print(x)
 ```
+
+## Number of primes in range
+```.py
+a = int(input())
+b = int(input())
+h = 0
+
+for x in range(a, b+1):
+    count = 0
+    for i in range(2, x):
+        if x%i == 0:
+            count = 1
+    if count == 0:
+        h = h+1
+print(h)
+```
+
+## Lost Card
+```.py
+answer = 0
+N= int(input())
+b = N
+for i in range(N-1):
+  N = int(input())
+  answer = answer + N
+for i in range(b):
+  b = i + b
+  i = N + i
+b = abs(answer - b)
+print(b)
+```
