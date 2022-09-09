@@ -20,4 +20,4 @@ print(factors)
 ```
 
 ## Tests
-![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/quiz%205%20tests.png)
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz%205%20tests.png)
