@@ -27,3 +27,6 @@ else:
 
 ## Tests
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz%204%20tests.png)
+
+## Flow diagram
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_004_FlowDiagram.jpg)
