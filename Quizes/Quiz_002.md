@@ -44,4 +44,9 @@ while not c:
             count = count + 1
 print("The answer of this quiz is", c)
 ```
+
+## Tests
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Screen%20Shot%202022-09-01%20at%2019.25.18.png)
+
+## Flow diagram
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_002_FlowDiagram.jpg)
