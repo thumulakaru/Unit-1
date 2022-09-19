@@ -44,3 +44,6 @@ print("Answer to the protein that you inputted is " + protein_out + ".")
 
 ## Tests
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Screen%20Shot%202022-09-04%20at%2010.15.01.png)
+
+## Flow diagram
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_003_FlowDiagram.jpg)
