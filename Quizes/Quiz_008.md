@@ -21,3 +21,6 @@ roomnum(v)
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz%208%20tests.png)
 
 **Figure 1:** Tests for the problem
+
+## Flow diagram
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_008_FlowDiagram.jpg)
