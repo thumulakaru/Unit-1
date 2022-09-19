@@ -21,3 +21,6 @@ print(factors)
 
 ## Tests
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz%205%20tests.png)
+
+## Flow diagram
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_005_FlowDiagram.jpg)
