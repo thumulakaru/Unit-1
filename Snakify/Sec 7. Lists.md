@@ -19,4 +19,17 @@ for i in range(len(b)):
         print(num)
 ```
 
-## 
+## Greater than previous
+```.py
+a = [int(i) for i in input().split() ]
+prev = a[0]
+for c in range(0, len(a)):
+    if prev < a[c]:
+        print(a[c])
+    prev = a[c]
+```
+
+## Neighbours of the same sign
+```.py
+
+```
