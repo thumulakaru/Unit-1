@@ -32,3 +32,6 @@ print(out)
 
 ## Tests
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz%201%20tests.png)
+
+## Flow Chart
+![](https://github.com/thumulakaru/Unit-1/blob/main/Quizes/Quiz_001_FlowDiagram.png)
