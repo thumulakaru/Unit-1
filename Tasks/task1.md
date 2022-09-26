@@ -1,6 +1,19 @@
-# Task 1(13.09.2022)
+# Task 1: Computational thinking
 
-## Task 1
+## Research Questions
+### Question 1
+How a computer is able to predict what would happen to a nuclear weapon in another 50 years just using probability when the next moment of a human's life is still a question.
+
+### Question 2
+Developing supercomputers would help solve many problems in healthcare and also in many other fields. The Flash TV series is a perfect example for this. Even though the machine that is developed is not a supercomputer it can be seen as a symbol. But as the show itself proves that the machine brought harm to humanity likewise a supercomputer would also bring harm by developing new weaponary systems which would ultimately cause in a war due to getting the most technological advanced military equipment. In my opinion supercomputers should be developed but it also should be 100% transparent to civilians.
+
+### Question 3
+Since there are no details about super computers in Sri Lankan I will be using the Japan's highest speed supercomputer as the my home country's fastest computer. Japan's fastest supercomputer is 'supercomputer Fugaku'. It is mainly used for scientific researchs. It has 158,976 nodes. Which brings the fact that it is able to cool itself for sustained performances.
+
+“Specification of Supercomputer Fugaku.” Supercomputer Fugaku : Fujitsu Global, https://www.fujitsu.com/global/about/innovation/fugaku/specifications/. 
+
+## Programming Task
+### Task 1
 ```.py
 # Printing colours for 2400 lockers
 
@@ -17,7 +30,7 @@ for lockernum in range(1, finallocker+1):
     print(f"For locker number {lockernum} the colour is {colours[lockermod]}." )
 ```
 
-## Task 2
+### Task 2
 ```.py
 # Printing an output based on the locker number given by the user
 
@@ -35,7 +48,7 @@ a = colours[lockermod]
 print("For locker number " + str(lockernum) +" colour is " + a + ".")
 ```
 
-## Task 3
+### Task 3
 
 ```.py
 # Printing an output based on the locker number given by the user
@@ -83,7 +96,7 @@ print(f"You will have the following lockers in {colour_in} "
 
 **Figure 1:** Tests for Task 1.3
 
-## Task 4
+### Task 4
 
 ```.py
 import random
