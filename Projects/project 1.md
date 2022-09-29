@@ -30,7 +30,6 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 4. The electronic ledger is password protected.
 5. The electronic ledger is able to show records of a selected month.
 6. The electronic ledger shows the total of transactions divided into categories.
-7. The electronic ledger is able to show a graph of TRON's values.
 
 # Criteria B: Design
 
