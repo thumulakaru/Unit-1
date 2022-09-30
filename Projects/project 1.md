@@ -44,6 +44,7 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/System_diagram.png)
 
 ## Flow Diagrams
+![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Log%20in%20Flowchart.png)
 
 
 ## Record of Tasks
