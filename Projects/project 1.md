@@ -29,7 +29,7 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 3. The electronic ledger allows to enter, withdraw and record transactions.
 4. The electronic ledger is password protected.
 5. The electronic ledger is able to show records of a selected month.
-6. The electronic ledger shows the total of transactions divided into categories.
+6. The electronic ledger shows all transactionas related to a category.
 
 # Criteria B: Design
 
@@ -50,10 +50,30 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Log%20in%20Flowchart%202.png)
 
+### Balance checking function
+![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Balance%20checking%20function%20flowchart.png)
+
+### Deposit validation function
+![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Deposit%20validation%20function%20flow%20chart.png)
 
 ## Record of Tasks
-| Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
-|---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 22                 | B         |
+| Task No | Planned Action                                                                   | Planned outcome                                                                                  | Time estimate | Target completion date | Criterion |
+|:-------:|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------|:----------------------:|-----------|
+| 1       |                               Create system diagram                              | To have a clear idea of the hardware and software  requirements for the proposed solution        |     10 min    | Sep 22                 | B         |
+| 2       |                       Creating a database for the password                       |                              Store the password in an encrypted file                             |     10 min    | Sep 23                 | C         |
+| 3       |                           Creating the log in  function                          |                                   Prevent un-authorized log in                                   |     30 min    | Sep 23                 | C         |
+| 4       |                                   Password Test                                  |                              Checking if the password properly works                             |     10 min    | Sep 23                 | C         |
+| 5       |                              Planning the entry menu                             |                              To have a clear idea of the entry menu                              |     5 min     | Sep 23                 | A         |
+| 6       |                              Creating the entry menu                             |                                 Displaying the entry menu to user                                |     30 min    | Sep 23                 | C         |
+| 7       |                      Creating the month validation function                      |                 Using the function later to validate a month entered by the user                 |     20 min    | Sep 23                 | C         |
+| 8       |                       Creating the date validation function                      |                  Using the function later to validate a date entered by the user                 |     20 min    | Sep 23                 | C         |
+| 9       |                     Creating the integer validation function                     |           Using the function later to validate an input as integer entered by the user           |     20 min    | Sep 27                 | C         |
+| 10      | Drawing the flow diagram for the function that checks whether a deposit is valid | Making it easier for program the function while having a better understanding about the function |     10 min    | Sep 27                 | B         |
+| 11      |           Creating the function that  checks whether a deposit is valid          |              Using the function later to check whether  an inputted deposit is valid             |     15 min    | Sep 27                 | C         |
+| 12      |           Drawing flow diagram for the function that checks the balance          |   Making it easier for program the function by having a better understanding about the function  |     20 min    | Sep 27                 | B         |
+| 13      | Planning what the end message would look like                                    |       Have a good idea about the what the user would like to see at the end of the program       |     20 min    | Sep 27                 | A         |
+| 14      |                              Coding the end message                              |                Printing a pleasant message for the user at the end of the program                |     10 min    | Sep 27                 | C         |
+
+## Record of tests
 
 
