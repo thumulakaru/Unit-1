@@ -20,7 +20,7 @@ I will to design and make a Electronic ledger for a client who is Mr. Sato. The 
 Justify the tools/structure of your solution
 
 ## Tron coin
-TRON was founded by Justin Sun in 2017. The TRON Foundation was established in July 2017 in Singapore. The TRON Foundation raised $70 million in 2017 through an initial coin offering shortly before China outlawed the digital tokens. The implementations of TRON require minimal transaction fees in order to prevent malicious users from performing DDoS attacks for free. 1 Tron(TRX) is now exchanged for 8.62 JPY.
+TRON was founded by Justin Sun in 2017. The TRON Foundation was established in July 2017 in Singapore. The TRON Foundation raised $70 million in 2017 through an initial coin offering shortly before China outlawed the digital tokens. The implementations of TRON require minimal transaction fees in order to prevent malicious users from performing DDoS attacks for free. 1 Tron(TRX) is now exchanged for 8.77 JPY.
 “TRON Coin.” TRON, https://tron.network/about?lng=en. 
 
 ## Success Criteria
@@ -74,4 +74,12 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 
 ## Record of tests
 
-
+|          Description         |      Type      |                                                Input                                               |                                                                                                     Expected Output                                                                                                    |
+|:----------------------------:|:--------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Start up message & menu   | Unit test      |                                                None                                                | ===========TRON Wallet - 2022=========== Welcome to TRON wallet. Please enter a number between 1-4.  1. Check the balance. 2. Enter a transaction. 3. Check the records of a month. 4. Check transactions by category |
+| Option selection by the user | Unit test      | Input between 1- 4 Input not between 1-4                                                           | Please enter the password: Error! You entered a wrong input(5). Please enter a valid input:                                                                                                                            |
+|           Password           | Unit test      | Incorrect password   Correct password                                                              | You have 4 tries left. Please re-enter the password:  Continue the program                                                                                                                                             |
+|   Option 01 (Balance Check)  | Unit test      |                                                None                                                | Your current balance is {Balance} TRX. Which is {Balance*8.8}JPY.                                                                                                                                                      |
+|           User test          | Usability test |                                                None                                                | Ability of the user to understand the program just by reading the instructions printed                                                                                                                                 |
+|     Date input validation    | Usability test | Invalid month(If the user enters a non-numerical value or if the user enters an invalid month no.) | Program prompts user that the month input is wrong and  prompts user to input again.                                                                                                                                   |
+| Wrong password counter       | Usability test | 1. User inputs wrong  password when logging in                                                     | Program prompts user to retry logging in.  When the amount of times the username/password is wrong exceeds 5,  the program terminates itself.          
