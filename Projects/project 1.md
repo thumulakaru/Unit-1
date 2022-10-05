@@ -83,3 +83,7 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 |           User test          | Usability test |                                                None                                                | Ability of the user to understand the program just by reading the instructions printed                                                                                                                                 |
 |     Date input validation    | Usability test | Invalid month(If the user enters a non-numerical value or if the user enters an invalid month no.) | Program prompts user that the month input is wrong and  prompts user to input again.                                                                                                                                   |
 | Wrong password counter       | Usability test | 1. User inputs wrong  password when logging in                                                     | Program prompts user to retry logging in.  When the amount of times the username/password is wrong exceeds 5,  the program terminates itself.          
+
+## Video of the program
+
+[Recording of the program](https://drive.google.com/file/d/1w0aQf77rIH49-zuBNAasRIAI-eRfy5eU/view?usp=sharing)
