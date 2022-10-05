@@ -45,16 +45,14 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 
 ## Flow Diagrams
 
-### Log in
-![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Log%20in%20Flowchart%201.png)
-
-![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Log%20in%20Flowchart%202.png)
+### Function for checking the records of a month
+![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Function%20for%20checking%20the%20records%20of%20a%20month%20flowchart.png)
 
 ### Balance checking function
 ![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Balance%20checking%20function%20flowchart.png)
 
-### Deposit validation function
-![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Deposit%20validation%20function%20flow%20chart.png)
+### Month validation function
+![](https://github.com/thumulakaru/Unit-1/blob/main/Projects/Month%20validation%20function%20flowchart.png)
 
 ## Record of Tasks
 | Task No | Planned Action                                                                   | Planned outcome                                                                                  | Time estimate | Target completion date | Criterion |
