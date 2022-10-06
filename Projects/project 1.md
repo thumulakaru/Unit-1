@@ -86,4 +86,4 @@ TRON was founded by Justin Sun in 2017. The TRON Foundation was established in J
 
 ## Video of the program
 
-[Recording of the program](https://drive.google.com/file/d/1w0aQf77rIH49-zuBNAasRIAI-eRfy5eU/view?usp=sharing)
+[Recording of the program](https://drive.google.com/file/d/11OmN6UXYOpW0tuGEUEHVWaoHMJ2rSNmu/view?usp=sharing)
